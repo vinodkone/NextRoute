@@ -1,14 +1,14 @@
 README
 ------
 
-Steps to use NextRoute to power your own twitter account
+Steps to use NextRoute to power your own app's twitter account:
 
 1) Create a twitter account for your application. For e.g: @nextroute
 
-2) Set the 'READ & WRITE DIRECT MESSAGES' perm for your app
+2) Set the 'READ & WRITE DIRECT MESSAGES' perm for your app.
 
-3) Edit the file nextroute.py and update the access tokens
+3) Allow your application to access the newly created twitter account (e.g: @nextroute).
 
-4) Run: python nextroute.py
+4) Edit the file nextroute.py and update it with your app's access tokens.
 
-5) Profit
+5) Run: python nextroute.py.
